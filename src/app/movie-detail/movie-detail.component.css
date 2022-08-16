@@ -1,0 +1,78 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.details{
+  font-family: 'Cormorant SC', serif;
+  padding: 1rem;
+  border: 1px solid #EBF5FF;
+  color: #EBF5FF;
+  text-align: left;
+  padding: 0.5em;
+  font-size: 0.875em;
+  width: 330px;
+  display: flex;
+  flex-direction: column;
+  transform: scale(0.9);
+}
+
+img {
+    width: 100%;
+    height: 50%;
+}
+
+.movie-title {
+  display: block;
+  margin-top: .5rem;
+  width: 100%;
+  font-size: 24px;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 1rem;
+  background: none;
+  color: #EBF5FF;
+  border: none;
+  outline: none;
+  font-family: 'Cormorant SC', serif;
+}
+.movie-date {
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+  margin-top: 1rem;
+  background: none;
+  color:#EBF5FF;
+  border: none;
+  outline: none;
+  font-family: 'Cormorant SC', serif;
+}
+
+p {
+  margin-top: .5rem;
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-size: 13px;
+}
+button {
+  cursor: pointer;
+  margin-top: 1rem;
+  border: 0;
+  height: 1.5rem;
+  background-color: #EBF5FF;
+  color: #000;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+.description {
+  width: 100%;
+  resize: none;
+  width: 100%;
+  height: 5em;
+  resize: none;
+  margin-top: 1rem;
+}

@@ -1,0 +1,36 @@
+.header {
+  width: 100%;
+  height: 160px;
+  font-family: 'Cormorant SC', serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: stretch;
+  margin-top: 20px;
+}
+
+.heading {
+  margin-top: 1rem;
+  font-size: 44px;
+  color: #EBF5FF;
+}
+
+nav {
+  margin-top: 2rem;
+
+}
+
+nav a {
+  color: #EBF5FF;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  transition: all 0.2s ease-in-out;
+}
+
+nav a:hover {
+  color: #FFC300;
+}
+
+nav a.active {
+  color: #FFC300;
+}

@@ -1,0 +1,95 @@
+{
+  "movies": [
+    {
+      "id": 2,
+      "name": "Alice in Borderland Updated",
+      "description": "Obsessed gamer Arisu suddenly finds himself in a strange, emptied-out version of Tokyo in which he and his friends must compete in dangerous games in order to survive.",
+      "releaseYear": 2021,
+      "image": "https://m.media-amazon.com/images/M/MV5BZmUwMGI4M2QtYmRlYy00NDQ1LThjNDAtYTI4NDNiNDg5MDViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Enola Holmes",
+      "description": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
+      "releaseYear": 2020,
+      "image": "https://m.media-amazon.com/images/M/MV5BZjNkNzk0ZjEtM2M1ZC00MmMxLTlmOWEtNWRlZTc1ZTUyNzY4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Turning",
+      "description": "A young governess begins to care for two wealthy orphaned children who live in a huge mysterious estate. Soon she discovers that both children are hiding dark secrets as she has strange experiences.",
+      "releaseYear": 2020,
+      "image": "https://www.uphe.com/sites/default/files/styles/scale__344w_/public/2020/02/TheTurning_PosterArt.jpg"
+    },
+    {
+      "id": 6,
+      "name": "The Kissing Booth 2",
+      "description": "After a romantic summer together, Noah and Elle must adjust to a long-distance relationship as he leaves for Harvard and she begins her senior year of high school.",
+      "releaseYear": 2020,
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c8/The_Kissing_Booth_2_poster.jpg"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/da/365_Days_This_Day_poster.png",
+      "name": "365 Days: This Day updated",
+      "releaseYear": 2023,
+      "description": "Laura and Massimo attempt to piece their lives back together following the inter-mafia conflict. However, Massimo's family ties and a mysterious man bidding for Laura's heart complicate the lovers' lives.",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Anna",
+      "description": "Anna Poliatova is a Russian beauty who works for the KGB while constantly looking for a way out. She soon seizes an opportunity when the CIA ask her to become a double agent.",
+      "releaseYear": 2019,
+      "image": "https://m.media-amazon.com/images/M/MV5BOWUyYTU4NTQtYWQ2Mi00NzE0LTk0OTMtN2MzNjRkZjFkZTU2XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Polar",
+      "description": "The world's top assassin, Duncan Vizla, aka The Black Kaiser, is settling into retirement when his former employer marks him as a liability to the firm. Against his will, he finds himself back in the game going head-to-head with an army of younger, faster, ruthless killers who will stop at nothing to have him silenced.",
+      "releaseYear": 2019,
+      "image": "https://m.media-amazon.com/images/M/MV5BMzA5MjNjODEtOWYxYi00OTdmLTlhNTAtN2VhMTMxNWJjM2ZmXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Eli",
+      "description": "It stars Kelly Reilly, Sadie Sink, Lili Taylor, Max Martini, and Charlie Shotwell. The film follows a boy with a rare autoimmune disease who is taken by his parents to a private medical facility to be cured and suddenly begins to experience paranormal occurrences. Eli.",
+      "releaseYear": 2019,
+      "image": "https://m.media-amazon.com/images/M/MV5BYWQwYjNiM2ItMTcyZS00ZTNmLTgwNzQtMTgwNzU5ODgxMTc3XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Spiderhead",
+      "description": "Two inmates form a connection while grappling with their pasts in a state-of-the-art penitentiary run by a brilliant visionary who experiments on his subjects with mind-altering drugs.",
+      "releaseYear": 2022,
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/58/Spiderhead.jpg"
+    },
+    {
+      "id": 12,
+      "name": "To all the Boys i'ved loved",
+      "description": "To All the Boys is a franchise consisting of American teenage romance installments, including three feature films and a spin-off television series, based on the titular trilogy of novels written by Jenny Han.",
+      "releaseYear": 2018,
+      "image": "https://m.media-amazon.com/images/M/MV5BZjMwNDQ4NzMtOThmZi00NmMyLThkMWItMTA3MTg2YjdiZDRmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Bird Box",
+      "description": "When a mysterious force decimates the population, only one thing is certain -- if you see it, you die. The survivors must now avoid coming face to face with an entity that takes the form of their worst fears. Searching for hope and a new beginning, a woman and her children embark on a dangerous journey through the woods and down a river to find the one place that may offer sanctuary. To make it, they'll have to cover their eyes from the evil that chases them -- and complete the trip blindfolded.",
+      "releaseYear": 2018,
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/Bird_Box_%28film%29.png"
+    },
+    {
+      "id": 14,
+      "name": "A Quiet Place",
+      "description": "A family struggles for survival in a world where most humans have been killed by blind but noise-sensitive creatures. They are forced to communicate in sign language to keep the creatures at bay.",
+      "releaseYear": 2018,
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png"
+    },
+    {
+      "id": 15,
+      "name": "Bruce Almighty",
+      "description": "A furious TV reporter demands an explanation from God for the injustice done to him. The Almighty gives him the power to run the world for a while, to teach him how difficult it is.",
+      "releaseYear": 2003,
+      "image": "https://m.media-amazon.com/images/M/MV5BNzMyZDhiZDUtYWUyMi00ZDQxLWE4NDQtMWFlMjI1YjVjMjZiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+    }
+  ]
+}

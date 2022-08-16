@@ -1,0 +1,22 @@
+
+<main>
+  <div class="container">
+    <h3 class="heading">Top 10 NetFlix Movies</h3>
+
+    <div class="card-list">
+      <div class="movie-card-container" *ngFor="let movie of movies">
+        <a routerLink="/detail/{{movie.id}}">
+          <div class="movie-card" [ngClass]="{'oldMovie': movie.releaseYear < 2012}">
+            <img class="movie-image" src="{{movie.image}}" alt="">
+            <div class="card-desc">
+              <span>{{movie.name}}</span> <br>
+              <span>{{movie.releaseYear}}</span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</main>
+

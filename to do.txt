@@ -1,0 +1,54 @@
+create a list that displays popular movies (20).
+The information for the movies; name, id, description, release year, image.
+
+
+ {
+        id: 4,
+        name: "The Sea Beast",
+        description: "The life of a legendary sea monster hunter is turned upside down when a young girl stows away on his ship.",
+        releaseYear: 2022,
+        image: "https://m.media-amazon.com/images/M/MV5BODkyYTRlMDItMDlhMC00MzkzLWI3NzQtOGVlMjdjYThlNDM3XkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        id: 5,
+        name: "The Sea Beast",
+        description: "The life of a legendary sea monster hunter is turned upside down when a young girl stows away on his ship.",
+        releaseYear: 2022,
+        image: "https://m.media-amazon.com/images/M/MV5BODkyYTRlMDItMDlhMC00MzkzLWI3NzQtOGVlMjdjYThlNDM3XkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        id: 6,
+        name: "The Sea Beast",
+        description: "The life of a legendary sea monster hunter is turned upside down when a young girl stows away on his ship.",
+        releaseYear: 2022,
+        image: "https://m.media-amazon.com/images/M/MV5BODkyYTRlMDItMDlhMC00MzkzLWI3NzQtOGVlMjdjYThlNDM3XkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        id: 7,
+        name: "The Sea Beast",
+        description: "The life of a legendary sea monster hunter is turned upside down when a young girl stows away on his ship.",
+        releaseYear: 2022,
+        image: "https://m.media-amazon.com/images/M/MV5BODkyYTRlMDItMDlhMC00MzkzLWI3NzQtOGVlMjdjYThlNDM3XkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        id: 8,
+        name: "The Sea Beast",
+        description: "The life of a legendary sea monster hunter is turned upside down when a young girl stows away on his ship.",
+        releaseYear: 2022,
+        image: "https://m.media-amazon.com/images/M/MV5BODkyYTRlMDItMDlhMC00MzkzLWI3NzQtOGVlMjdjYThlNDM3XkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        id: 9,
+        name: "The Sea Beast",
+        description: "The life of a legendary sea monster hunter is turned upside down when a young girl stows away on his ship.",
+        releaseYear: 2022,
+        image: "https://m.media-amazon.com/images/M/MV5BODkyYTRlMDItMDlhMC00MzkzLWI3NzQtOGVlMjdjYThlNDM3XkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        id: 10,
+        name: "The Sea Beast",
+        description: "The life of a legendary sea monster hunter is turned upside down when a young girl stows away on his ship.",
+        releaseYear: 2022,
+        image: "https://m.media-amazon.com/images/M/MV5BODkyYTRlMDItMDlhMC00MzkzLWI3NzQtOGVlMjdjYThlNDM3XkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_FMjpg_UX1000_.jpg"
+    },
+

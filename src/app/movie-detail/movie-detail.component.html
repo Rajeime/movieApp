@@ -1,0 +1,19 @@
+<div class="wrapper">
+  <div *ngIf="movie" class="details">
+      <img src="{{movie.image}}" alt="" srcset="">
+      <div class="desc">
+        <input [(ngModel)]="movie.name" class="movie-title">
+        <input class="movie-date" [(ngModel)]="movie.releaseYear">
+        <textarea [(ngModel)]="movie.description" class="description"></textarea>
+      </div>
+      <button (click)="update()">
+          Save
+      </button>
+      <button (click)="deleteMovie(movie.id)">
+        Delete
+      </button>
+      <button (click)="goBack()">
+          Go Back
+      </button>
+  </div>
+</div>

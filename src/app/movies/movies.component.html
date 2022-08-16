@@ -1,0 +1,51 @@
+<main>
+  <div style="text-align: left; margin-left: 250px;">
+    <h2>Add Your Favorite Movie to Our List.</h2> <br>
+    <table style="width: 20em; margin: auto;">
+        <tr>
+          <td>Name:</td>
+          <td><input #movieName placeholder="Name..."></td>
+        </tr><br>
+        <tr>
+          <td>Description:</td>
+          <td><input #movieDescription placeholder="Description..."></td>
+        </tr><br>
+        <tr>
+          <td>Release Year:</td>
+          <td><input #releaseYear placeholder="Release Year..."></td>
+        </tr><br>
+        <tr>
+          <td>Image:</td>
+          <td><input #movieImage placeholder="Image..."></td>
+        </tr><br>
+        <tr>
+          <button (click)="newMovie(movieName.value,
+                movieDescription.value,
+                releaseYear.value,
+                movieImage.value);
+                movieName.value = '';
+                movieDescription.value = '';
+                releaseYear.value = '';
+                movieImage.value = '';
+                " class="button-71" role="button">
+            Add
+          </button>
+        </tr>
+    </table>
+  </div>
+  <div class="container">
+    
+    <div class="movies-section">
+      <div class="movies-list" *ngFor="let eachMovie of movies">
+        <a routerLink="/detail/{{eachMovie.id}}">
+          <span>{{eachMovie.name}}</span>
+         
+        </a>
+      </div>
+    </div>
+    
+  </div>
+</main>
+
+<br><br>
+
