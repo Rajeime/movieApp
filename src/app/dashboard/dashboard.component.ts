@@ -11,12 +11,13 @@ export class DashboardComponent implements OnInit {
   movies: Movie[] = []
 
   getDashboardMovies(): void {
-    this.movieService.getMovies().subscribe(theseMovies => this.movies = theseMovies);
+    this.movieService.getMovies().subscribe((theseMovies) => {
+    this.movies = theseMovies;
     this.movies.sort((a,b)=>{
-      return a.releaseYear - b.releaseYear 
+      return a.releaseYear > b.releaseYear ? - 1 : 1 
     })
-
-  }
+  })
+}
 
   constructor(public movieService: MovieService) { }
 

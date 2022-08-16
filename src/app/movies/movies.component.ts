@@ -24,11 +24,6 @@ export class MoviesComponent implements OnInit {
   selectedMovie!: Movie;
   movies!: Movie[];
 
-  // onSelectMovie(movie: Movie): void {
-  //   this.selectedMovie = movie;
-  //   console.log(`this.selectedMovie is ${JSON.stringify(this.selectedMovie)}`)
-  // }
-
   getMoviesfromService(): void{
     //this.movies = this.movieService.getMovies();
     this.movieService.getMovies().subscribe(
